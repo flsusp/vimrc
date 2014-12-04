@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/jefferson_girao/tools_project'
+let g:netrw_dirhist_2='/home/jefferson_girao/tools_project/cookbooks'
+let g:netrw_dirhist_3='/home/fabio_santos/tools_project/cookbooks/aws_sdk'
+let g:netrw_dirhist_4='/home/fabio_santos/tools_project/.kitchen'
+let g:netrw_dirhist_5='/home/fabio_santos/tools_project/spec'
+let g:netrw_dirhist_6='/home/fabio_santos/tools_project/.kitchen'
+let g:netrw_dirhist_7='/home/fabio_santos/scripts'
+let g:netrw_dirhist_8='/home/fabio_santos/tools_project/.kitchen'
+let g:netrw_dirhist_9='/home/fabio_santos/.gems/Deploy.create_ci_tools/ruby/1.9.1/gems/test-kitchen-1.2.1'
